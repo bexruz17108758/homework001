@@ -1,0 +1,37 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+ .contenir{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    align-items:center;
+    gap:30px;
+ justify-content:space-around;
+ margin:50px;
+ }
+ .tatle2{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    align-items:center;
+    gap:30px;
+ justify-content:space-evenly;
+ }
+ .tatle{
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+ }
+ .tatle3 {
+   border: 5px solid  red;
+   background-color:  red;
+   color: white;
+   margin: 100px;
+   height: 300px;
+   width: 300px;
+  align-items:center;
+  text-align:center;
+  padding: 125px;
+ }
